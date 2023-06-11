@@ -5,4 +5,3 @@ Function.prototype.method = function (name, func) {
 
   return this;
 };
-

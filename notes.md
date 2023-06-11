@@ -22,4 +22,11 @@ There a group of words that belongs to javascript and seriously, don't use them 
 
 ## statements
 
-We can have `let var1 = val1;` or `let var1 = val1, var2 = val2, ...;`, 
+We can have `let var1 = val1;` or `let var1 = val1, var2 = val2, ...;`. How things are it's obvious code execution start from above, top to bottom. There are statements like `for`, `while`, `if`, `switch`, etc.
+
+## expression
+
+For starters `literals` are expressions, `variables`, built-in values like `true`, `false`, `NaN`, etc. There is an ternary option too which is of the form, `var = expression? [val|expression]:[val|expression];`. There are operators such as `. [] ( )`, `delete new typeof + - !`, `* / %`, `+ -`, `>= <= > <`, `=== !==`, `&&`, `||`, `?:`
+
+## literals
+Object literals are used to create 
